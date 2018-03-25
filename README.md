@@ -1,2 +1,2 @@
 # git-github
-learning devops
+Learning Devops - this is for tutorial purpose
